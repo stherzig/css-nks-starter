@@ -9,8 +9,6 @@
 }
 
 
-
-
 .card {
   background: limegreen;
   border: 4px solid hotpink;
@@ -32,6 +30,8 @@
   padding: 30px;
   @include cardMX
 }
+
+
 
 // %card {
 //   background: limegreen;

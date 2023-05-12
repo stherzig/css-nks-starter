@@ -4,7 +4,9 @@ html {
   box-sizing: border-box;
 }
 
-img {
+img,
+svg,
+video {
   display: block;
-  width: 100%;
+  max-width: 100%;
 }
